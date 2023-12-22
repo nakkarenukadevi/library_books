@@ -1,0 +1,136 @@
+{
+  "books": [
+    {
+      "name": "ramayanmma",
+      "Isbno": "1",
+      "row": 2,
+      "catagory": "history",
+      "description ": "Panchatantra has been a part of the Indian folklore for centuries and continues to enchant young readers even today. The Animal Tales from Panchatantra is a wonderful collection of six stories that aim to guide the young readers about being wise, understand human nature among other moral values.",
+      "price": 200,
+      "self": 3,
+      "imageUrl": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71NM33ZCE1L._SL1000_.jpg",
+      "qrcode": "",
+      "aviliblity": "yse"
+    },
+    {
+      "name": "panchatantra",
+      "Isbno": "2",
+      "row": 2,
+      "catagory": "Animal stores",
+      "description": "Panchatantra has been a part of the Indian folklore for centuries and continues to enchant young readers even today. The Animal Tales from Panchatantra is a wonderful collection of six stories that aim to guide the young readers about being wise, understand human nature among other moral values.",
+      "price": 400,
+      "self": 3,
+      "imageUrl": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71NM33ZCE1L._SL1000_.jpg",
+      "qrcode": "",
+      "aviliblity": "yse"
+    },
+    {
+      "name": "aghora_1",
+      "Isbno": "3",
+      "row": 2,
+      "catagory": "history",
+      "description ": "Panchatantra has been a part of the Indian folklore for centuries and continues to enchant young readers even today. The Animal Tales from Panchatantra is a wonderful collection of six stories that aim to guide the young readers about being wise, understand human nature among other moral values.",
+      "price": 90,
+      "self": 3,
+      "imageUrl": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71NM33ZCE1L._SL1000_.jpg",
+      "qrcode": "",
+      "aviliblity": "yse"
+    },
+    {
+      "name": "aghora_2",
+      "Isbno": "4",
+      "row": 2,
+      "catagory": "history",
+      "description ": "Panchatantra has been a part of the Indian folklore for centuries and continues to enchant young readers even today. The Animal Tales from Panchatantra is a wonderful collection of six stories that aim to guide the young readers about being wise, understand human nature among other moral values.",
+      "price": 100,
+      "self": 3,
+      "imageUrl": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71NM33ZCE1L._SL1000_.jpg",
+      "qrcode": "",
+      "aviliblity": "yse"
+    },
+    {
+      "name": "Tenali rama",
+      "Isbno": "5",
+      "row": 2,
+      "catagory": "moral stores",
+      "description ": "Panchatantra has been a part of the Indian folklore for centuries and continues to enchant young readers even today. The Animal Tales from Panchatantra is a wonderful collection of six stories that aim to guide the young readers about being wise, understand human nature among other moral values.",
+      "price": 200,
+      "self": 3,
+      "imageUrl": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71NM33ZCE1L._SL1000_.jpg",
+      "qrcode": "",
+      "aviliblity": "yse"
+    },
+    {
+      "name": "ramkrishn paramhamsa",
+      "Isbno": "6",
+      "row": 2,
+      "catagory": "moral stores",
+      "description ": "Panchatantra has been a part of the Indian folklore for centuries and continues to enchant young readers even today. The Animal Tales from Panchatantra is a wonderful collection of six stories that aim to guide the young readers about being wise, understand human nature among other moral values.",
+      "price": 260,
+      "self": 3,
+      "imageUrl": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71NM33ZCE1L._SL1000_.jpg",
+      "qrcode": "",
+      "aviliblity": "yse"
+    },
+    {
+      "name": "sholkas",
+      "Isbno": "7",
+      "row": 2,
+      "catagory": "history",
+      "description ": "Panchatantra has been a part of the Indian folklore for centuries and continues to enchant young readers even today. The Animal Tales from Panchatantra is a wonderful collection of six stories that aim to guide the young readers about being wise, understand human nature among other moral values.",
+      "price": 100,
+      "self": 3,
+      "imageUrl": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71NM33ZCE1L._SL1000_.jpg",
+      "aviliblity": "yse",
+      "qrcode": ""
+    },
+    {
+      "name": "Akbar and Birbal",
+      "Isbno": "8",
+      "row": 2,
+      "catagory": "Bed Time story",
+      "description ": "Akbar birbal’s friendship has created history and some delightful stories of wit and humor. The timeless tales of Akbar and Birbal have been passed from one generation to another, and continue to fascinate young readers and adults alike",
+      "price": 200,
+      "self": 3,
+      "imageUrl": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71NM33ZCE1L._SL1000_.jpg",
+      "qrcode": "",
+      "aviliblity": "yse"
+    },
+    {
+      "name": "Fun Activities and Puzzles ",
+      "Isbno": "9",
+      "row": 2,
+      "catagory": "history",
+      "description ": "Children learn better when they learn through play. 201 Amazing Activity Book is a combination of over 200 engrossing entertaining activities covering numerous concepts so that the child develops reasoning,",
+      "price": 200,
+      "self": 3,
+      "imageUrl": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71NM33ZCE1L._SL1000_.jpg",
+      "qrcode": "",
+      "aviliblity": "yse"
+    },
+    {
+      "name": " Brain Booster",
+      "Isbno": "10",
+      "row": 2,
+      "catagory": "history",
+      "description ": "Children learn new concepts each day and this boosts their understanding and allows them to think and reason. 201 Brain Booster Activity Book expands the horizons of young learners with over 200",
+      "price": 200,
+      "self": 3,
+      "imageUrl": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71NM33ZCE1L._SL1000_.jpg",
+      "qrcode": "",
+      "aviliblity": "yse"
+    },
+    {
+      "name": "Fun Time Reading",
+      "Isbno": "11",
+      "row": 2,
+      "catagory": "history",
+      "description ": "Rev up your child’s reading skills with Fun Time Reading Comprehension Workbook. From word search to word building; unscrambling the letters to rearranging the words; finding the synonyms to writing antonyms, this book is packed with a variety of exciting questions and exercises that help in building",
+      "price": 200,
+      "self": 3,
+      "imageUrl": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71NM33ZCE1L._SL1000_.jpg",
+      "qrcode": "",
+      "aviliblity": "yse"
+    }
+  ]
+}
